@@ -19,8 +19,9 @@ namespace WindowsFormsApp26
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("All OK!!! MASTER!");
-            button1.Text = "OK";
+
+            MessageBox.Show("All OK!!! New edit!");
+
         }
     }
 }
